@@ -8,9 +8,12 @@
   
   📚 **Description**
   -----------------
-1. HomeScreen
+1. HomeScreen <br/>
+
    ![그림1](https://github.com/applepops/java_swing_subway_kiosk/assets/101245685/157794cf-05ee-49b5-8c5d-bcdf32d89ad3)
-  
+
+  <img src="https://github.com/applepops/java_swing_subway_kiosk/assets/101245685/157794cf-05ee-49b5-8c5d-bcdf32d89ad3"  width="700" height="370">
+
   <br/>
   
   💻 **Recent Changes**
