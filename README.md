@@ -10,6 +10,7 @@
   -----------------
   ```
 1. HomeScreen.java
+![그림1](https://github.com/applepops/java_swing_subway_kiosk/assets/101245685/9733002b-38f9-45e6-ad70-d654f88193a5)
 
   ```
   
