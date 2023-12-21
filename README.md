@@ -1,18 +1,18 @@
   🥪 **Introduction**
   -------------
-  + *Subway Kiosk* made by JAVA Swing
+  + `Subway Kiosk` made by *JAVA Swing*
   + aims to provide an intuitive and efficient ordering experience
-  + for 2023-2 SKKU Java Programming Lab Final Project
+  + for *2023-2 SKKU Java Programming Lab Final Project*
   
   <br/>
   
   📚 **Description**
   -----------------
 1. HomeScreen <br/>
- + HomeScreen.java is the initial screen of this project.
- + User can order subway menus in 'Order Here' button.
- + If user is subway manager, and wants to use admin functions, click 'Login as Admin'.
- + 'Exit' Button terminates the program.
+ + `HomeScreen.java` is the initial screen of this project.
+ + User can order subway menus in `Order Here` button.
+ + If user is subway manager, and wants to use admin functions, click `Login as Admin`.
+ + `Exit` Button terminates the program.
  <br/>
 <img src = "https://github.com/applepops/java_swing_subway_kiosk/assets/101245685/c3121317-742f-4aa6-afef-d281ed2927de" width="300" height="400"/>
 <br/><br/>
@@ -21,7 +21,7 @@
 
   * User can choose the menu tab and choose menu item.
   * If user clicks the button of each item, the order list is updated.
-  * When user clicks 'Purchase' button, user can check total price and purchase.
+  * When user clicks `Purchase` button, user can check total price and purchase.
   * 150 seconds are given for ordering. (If ordering takes too long, program alerts user and goes back to HomeScreen.) <br/>
 <img width="500" alt="OrderScreen" src="https://github.com/applepops/java_swing_subway_kiosk/assets/101245685/88c3d4b1-eb66-4792-8fe6-a3723fe8b399">
   <br/>  <br/>
@@ -50,7 +50,7 @@
   
 5. AdminMenuScreen <br/>
 
-+ Manager can check today's sales, check total order history, and save it as .txt file as follows.
++ Manager can check today's sales, check total order history, and save it as `output.txt` file as follows.
 <img width="300" alt="그림5" src="https://github.com/applepops/java_swing_subway_kiosk/assets/101245685/69960d5c-d27c-4384-b104-78de6f7a195a">
   <br/>
 <img width="300" alt="그림6" src="https://github.com/applepops/java_swing_subway_kiosk/assets/101245685/efa3544d-68b5-4919-96e7-6aa40a4ad8d6">
@@ -62,5 +62,6 @@
 
 🖥️ **How to Download**
   -----------------
-+ simply download the SubwayKiosk.jar file to run the program.
++ simply download the `SubwayKiosk.jar`
+file to run the program.
 
