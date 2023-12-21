@@ -1,6 +1,7 @@
   🥪 **Introduction**
   -------------
-  + I upload my assignments for 2022-1 CLA3109(korean artificial intelligence and data science) class.
+  + *Subway Kiosk* made by JAVA Swing
+  + aims to provide an intuitive and efficient ordering experience
   
   <br/>
   
