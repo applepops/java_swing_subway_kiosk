@@ -2,7 +2,7 @@
   -------------
   + *Subway Kiosk* made by JAVA Swing
   + aims to provide an intuitive and efficient ordering experience
-  (2023-2 SKKU Java Programming Lab Final Project)
+  + (2023-2 SKKU Java Programming Lab Final Project)
   
   <br/>
   
