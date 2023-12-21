@@ -22,7 +22,7 @@
   * User can choose the menu tab and choose menu item.
   * If user clicks the button of each item, the order list is updated.
   * When user clicks 'Purchase' button, user can check total price and purchase.
-  * 150 seconds are given for ordering. (If ordering took too long, program alerts user and goes back to HomeScreen.) <br/>
+  * 150 seconds are given for ordering. (If ordering takes too long, program alerts user and goes back to HomeScreen.) <br/>
 <img width="500" alt="OrderScreen" src="https://github.com/applepops/java_swing_subway_kiosk/assets/101245685/88c3d4b1-eb66-4792-8fe6-a3723fe8b399">
   <br/>  <br/>
   
@@ -57,3 +57,10 @@
 <br/>
 <img width="300" alt="그림7" src="https://github.com/applepops/java_swing_subway_kiosk/assets/101245685/a46fbbeb-c958-4053-b3cd-3d21371ac3e0">
 <br/>
+
+  <br/>
+
+🖥️ **How to Download**
+  -----------------
++ simply download the SubwayKiosk.jar file to run the program.
+
