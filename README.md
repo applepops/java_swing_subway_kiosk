@@ -2,26 +2,15 @@
   -------------
   + *Subway Kiosk* made by JAVA Swing
   + aims to provide an intuitive and efficient ordering experience
-  + (2023-2 SKKU Java Programming Lab Final Project)
+  + for 2023-2 SKKU Java Programming Lab Final Project
   
   <br/>
   
-  📚 **Assignment List**
+  📚 **Description**
   -----------------
   ```
-  - week3/hw1: python & pandas practice
-  
-  - week4/hw2: crawling using requests html (http://sillok.history.go.kr)
+1. HomeScreen.java
 
-  - week5/hw3: pandas groupby practice
-  
-  - week6/hw4: regular expression practice
-  
-  - week9/hw5: statistics concepts
-  
-  - week10/hw6: matplotlib & seaborn practice
-  
-  - week11/hw7: network & gephi practice
   ```
   
   <br/>
