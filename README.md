@@ -1,6 +1,6 @@
   🥪 **Introduction**
   -------------
-  + `Subway Kiosk` made by *JAVA Swing*
+  + `Subway Kiosk` using *JAVA Swing*
   + aims to provide an intuitive and efficient ordering experience
   + for *2023-2 SKKU Java Programming Lab Final Project*
   
